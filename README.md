@@ -23,7 +23,7 @@ A vehicle rental system for **FiveM** servers running **ESX Legacy**. Players ca
 | NUI Panel | Timer HUD |
 |---|---|
 | Vehicle selection with duration & price config | Live countdown per active rental |
-| ![NUI Panel](esx_vehiclesRent/screenshots/nui_panel.png) | ![Timer HUD](esx_vehiclesRent/screenshots/timer_hud.png) |
+| ![NUI Panel](e_rentvehicles/screenshots/nui_panel.png) | ![Timer HUD](e_rentvehicles/screenshots/timer_hud.png) |
 
 ## Dependencies
 
