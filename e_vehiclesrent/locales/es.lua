@@ -1,0 +1,16 @@
+Locale = {}
+
+Locale['blip_name']         = 'Alquiler de Vehiculos'
+Locale['press_to_rent']     = 'Presiona ~INPUT_CONTEXT~ para alquilar un vehiculo'
+Locale['rent_success']      = '~g~Has alquilado un vehiculo'
+Locale['rent_expired']      = 'Alquiler de vehiculo ~r~terminado'
+Locale['no_money']          = '~r~No tienes dinero suficiente!'
+Locale['max_rentals']       = '~r~No puedes alquilar mas vehiculos!'
+Locale['nui_title']         = 'Alquiler de Vehiculos'
+Locale['nui_free']          = 'Gratis'
+Locale['nui_per_unit']      = '/10min'
+Locale['nui_duration']      = 'Duracion'
+Locale['nui_total']         = 'Total'
+Locale['nui_cancel']        = 'Cancelar'
+Locale['nui_confirm']       = 'Alquilar'
+Locale['nui_minutes']       = 'min'
